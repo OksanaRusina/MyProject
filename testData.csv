@@ -1,0 +1,9 @@
+name,lastName,email,password,password1,newPassword,newPassword1,newExpenses
+Anna,Allison,annaAlisson@gmail.com,TestPass2233,TestPass2233,qweRty7899,qweRty7899,100
+Anna,Allison,annaAlisson@gmail.com,TestPass2233,TestPass2233,qweRty7899,qweRty7898,100
+A,Allison,annaAlisson@gmail.com,TestPass2233,TestPass2233,qweRty7899,qweRty7899,100
+Anna,,annaAlisson@gmail.com,TestPass2233,TestPass2233,qweRty7899,qweRty7899,100
+Anna,Allison,annaAlisson@gmailcom,TestPass2233,TestPass2233,qweRty7899,qweRty7899,100
+Anna,Allison,annaAlissongmail.com,TestPass2233,TestPass2233,qweRty7899,qweRty7899,100
+Anna,Allison,annaAlisson@gmail.com,TestPass2233,TestPass2223,qweRty7899,qweRty7899,100
+Anna,Allison,anna@Alisson@gmail.com,TestPass2233,T88tPass2233,qweRty7899,qweRty7899,100
